@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.mysql": "sql",
+        "print.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
